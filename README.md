@@ -24,7 +24,7 @@ and research how to adapt LLMs to Arabic.
 | Classical ML & ensembles<br>Deep learning<br>End-to-end MLOps on AWS | Agentic LLM workflows<br>RAG assistants<br>Voice AI<br>LoRA / QLoRA fine-tuning | Adapting LLMs to Arabic<br>Parameter-efficient fine-tuning<br>KAN / RBF feed-forward layers<br>Arabic NLP & healthcare AI |
 
 **7 papers · 560+ citations** · Research at the University of Sharjah<br>
-**Teaching:** [Learn PyTorch in 5 Projects](https://www.youtube.com/watch?v=E0bwEAWmVEM) on freeCodeCamp
+**Teaching:** [Learn PyTorch in 5 Projects](https://www.youtube.com/watch?v=E0bwEAWmVEM) on freeCodeCamp · [Courses on Udemy](https://www.udemy.com/user/desiredai/)
 
 <!-- Uncomment once a PR merges (or link open PRs now), newest first:
 **Open source:** Hugging Face Transformers · PEFT · lighteval
