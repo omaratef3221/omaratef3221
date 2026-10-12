@@ -21,9 +21,9 @@ and research how to adapt LLMs to Arabic.
 
 | Production ML | Generative AI | Research |
 | :-- | :-- | :-- |
-| Classical ML & ensembles<br>Deep learning<br>End-to-end MLOps on AWS | Agentic LLM workflows<br>RAG assistants<br>Voice AI<br>LoRA / QLoRA fine-tuning | Adapting LLMs to Arabic<br>Parameter-efficient fine-tuning<br>KAN / RBF feed-forward layers<br>Arabic NLP & healthcare AI |
+| Classical ML & ensembles (XGBoost, scikit-learn)<br>Deep learning (PyTorch, TensorFlow)<br>End-to-end MLOps on AWS (SageMaker, MLflow, Airflow, Docker) | Agentic LLM workflows (LangGraph, LangChain)<br>RAG assistants<br>Voice AI<br>LoRA / QLoRA fine-tuning (PEFT, DeepSpeed) | Adapting LLMs to Arabic<br>Parameter-efficient fine-tuning<br>KAN / RBF feed-forward layers<br>Arabic NLP & healthcare AI |
 
-**7 papers · 560+ citations** · Research at the University of Sharjah<br>
+**7 papers · 570+ citations** · Research at the University of Sharjah<br>
 **Teaching:** [Learn PyTorch in 5 Projects](https://www.youtube.com/watch?v=E0bwEAWmVEM) on freeCodeCamp · [Courses on Udemy](https://www.udemy.com/user/desiredai/)
 
 <!-- Uncomment once a PR merges (or link open PRs now), newest first:
@@ -33,13 +33,8 @@ and research how to adapt LLMs to Arabic.
 
 ### Selected work
 
-<!-- Replace with your best 3–4 public repos / models / papers. Mix classical ML, DL and GenAI. -->
 | Project | What it is |
 | :-- | :-- |
-| [**Project name**](https://github.com/USERNAME/REPO) | One line on what it does and the key result |
-| [**Model name**](https://huggingface.co/Omaratef3221/MODEL) | What it's fine-tuned for and how well it does |
-| [**Arabic fake news detection**](PAPER_LINK) | Contextual embeddings with BERT-based models, 90%+ accuracy |
-
-### Stack
-
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `Transformers` `PEFT` `DeepSpeed` `LangGraph` `LangChain` `AWS SageMaker` `MLflow` `Airflow` `Docker`
+| [**Arabic Medical QA: LoRA vs Full Fine-Tuning**](https://huggingface.co/Omaratef3221/jais-2-8b-chat-s1-full-s2-lora-medarabench) | 4 LLMs, 22 conditions, two-stage domain → task adaptation on multi-GPU · [code](REPO_LINK) · [preprint](PREPRINT_LINK) |
+| [**Text-to-SQL with Qwen2**](https://github.com/omaratef3221/SQL_Query_Generator_llm) | Qwen2-Instruct fine-tuned with TRL SFT · [model on the Hub](https://huggingface.co/Omaratef3221/Qwen2-0.5B-Instruct-SQL-query-generator) |
+| [**Podcast Summarizer Agent**](https://github.com/omaratef3221/podcast-summarizer-agent) | LangGraph agent that finds, transcribes and summarizes podcast episodes on its own · RAG, MongoDB |
