@@ -23,7 +23,7 @@ and research how to adapt LLMs to Arabic.
 | :-- | :-- | :-- |
 | Classical ML & ensembles (XGBoost, scikit-learn)<br>Deep learning (PyTorch, TensorFlow)<br>End-to-end MLOps on AWS (SageMaker, MLflow, Airflow, Docker) | Agentic LLM workflows (LangGraph, LangChain)<br>RAG assistants<br>Voice AI<br>LoRA / QLoRA fine-tuning (PEFT, DeepSpeed) | Adapting LLMs to Arabic<br>Parameter-efficient fine-tuning<br>KAN / RBF feed-forward layers<br>Arabic NLP & healthcare AI |
 
-**7 papers · 570+ citations** · Research at the University of Sharjah<br>
+**9 research publications · 570+ citations** · Research at the University of Sharjah<br>
 **Teaching:** [Learn PyTorch in 5 Projects](https://www.youtube.com/watch?v=E0bwEAWmVEM) on freeCodeCamp · [Courses on Udemy](https://www.udemy.com/user/desiredai/)
 
 <!-- Uncomment once a PR merges (or link open PRs now), newest first:
