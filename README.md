@@ -2,7 +2,7 @@
 
 # Omar Elgendy
 
-**ML Engineer & AI Researcher** · Dubai, UAE
+**ML Engineer & AI Researcher**
 
 I build production ML systems, from classical ML and deep learning to LLM agents,<br>
 and research how to adapt LLMs to Arabic.
@@ -35,6 +35,6 @@ and research how to adapt LLMs to Arabic.
 
 | Project | What it is |
 | :-- | :-- |
-| [**Arabic Medical QA: LoRA vs Full Fine-Tuning**](https://huggingface.co/Omaratef3221/jais-2-8b-chat-s1-full-s2-lora-medarabench) | 4 LLMs, 22 conditions, two-stage domain → task adaptation on multi-GPU · [code](REPO_LINK) · [preprint](PREPRINT_LINK) |
+| [**Arabic Medical QA: LoRA vs Full Fine-Tuning**](https://huggingface.co/Omaratef3221/jais-2-8b-chat-s1-full-s2-lora-medarabench) | 4 LLMs, 22 conditions, two-stage domain → task adaptation on multi-GPU · [code]([REPO_LINK](https://github.com/omaratef3221/arabic-medical-qa-research)) · [preprint]([PREPRINT_LINK](https://www.researchsquare.com/article/rs-10807173/v1)) |
 | [**Text-to-SQL with Qwen2**](https://github.com/omaratef3221/SQL_Query_Generator_llm) | Qwen2-Instruct fine-tuned with TRL SFT · [model on the Hub](https://huggingface.co/Omaratef3221/Qwen2-0.5B-Instruct-SQL-query-generator) |
 | [**Podcast Summarizer Agent**](https://github.com/omaratef3221/podcast-summarizer-agent) | LangGraph agent that finds, transcribes and summarizes podcast episodes on its own · RAG, MongoDB |
